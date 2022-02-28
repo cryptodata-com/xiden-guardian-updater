@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Update starting...\n"
+echo "Update starting..."
