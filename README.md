@@ -11,4 +11,5 @@ crontab -e
 ```
 wget https://raw.githubusercontent.com/cryptodata-com/xiden-guardian-updater/master/update.sh
 chmod +x ./update.sh
+/etc/init.d/cron restart
 ```
